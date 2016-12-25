@@ -19,3 +19,8 @@ Rate it on [Ionic Market Place.](http://market.ionic.io/starters/ionic-mqtt-ecli
 Read the following article : [Ionic MQTT Client build using Paho – Part 4](http://www.arjunsk.com/iot/ionic-mqtt-client-build-using-paho-part-4/) 
 
 Also read the [complete tutorial series for IOT ](http://www.arjunsk.com/tag/iot) 
+
+Video Tutorial: 
+
+[![Ionic IOT Monitor](https://img.youtube.com/vi/kBtOp2JbZx4/0.jpg)](https://www.youtube.com/watch?v=kBtOp2JbZx4&feature=youtu.be)
+      
