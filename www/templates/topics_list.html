@@ -1,0 +1,25 @@
+<ion-view style="" class=" " id="page9" title="Topics">
+    <ion-content class="has-header" padding="false">
+
+        <div ng-repeat="item in topics" style=" margin-bottom: 0;" class="list condensed-space no-padding">
+
+          <div class="card dark-bg in" >
+            <a class="item clear-bg item-bg-image waves-effect waves-button waves-light has-mask-reverse">
+              <h2>{{item.topic}}</h2>
+              <p>{{item.info}}</p>
+              <div class="button-bar" style="bottom: 0;position: absolute;right: 0;">
+                <button ng-click="deleteTopic(item.$id)" class="button button-large button-clear flat waves-effect waves-button waves-light icon ion-android-delete pull-right text-white"></button>
+                <button ng-click="itemManipulation(item)" class="button button-large button-clear flat waves-effect waves-button waves-light icon ion-ios-compose pull-right text-white"></button>
+                <button ng-click="view_graph(item.topic)" class="button button-large button-clear flat waves-effect waves-button waves-light icon ion-ios-eye pull-right text-white"></button>
+              </div>
+              <img ng-src="{{&apos;img/&apos;+ item.img +&apos;&apos;}}"   >
+            </a>
+          </div>
+
+      </div>
+
+    </ion-content>
+
+  <button ng-click="itemManipulation()" class="button button-fab button-fab-bottom-right button-calm icon ion-plus waves-effect waves-button waves-light"></button>
+
+</ion-view>

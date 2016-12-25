@@ -1,0 +1,24 @@
+<ion-view style="" class=" " id="page6" title="Signup">
+    <ion-content class="has-header" padding="true" style="background: url(img/bg1.jpg) center; background-size: cover;">
+        <form name="signupForm" class="list " id="signup-form2">
+            <ion-list class=" " id="signup-list3">
+
+			   <div class="app-icon"></div>
+
+              <label class="item item-input item-floating-label">
+                  <span style="color: #fffcfd;" class="input-label">Email</span>
+                  <input style="color: #ffffff;" ng-model="user.email" type="email" placeholder="Email">
+              </label>
+
+              <label class="item item-input item-floating-label">
+                  <span style="color: #fffcfd;" class="input-label">Password</span>
+                  <input style="color: #ffffff;" ng-model="user.password" type="password" placeholder="Password">
+              </label>
+
+
+            </ion-list>
+            <div style="width: 279px; height: 35px;" class="spacer"></div>
+            <button ng-click="signupEmail(signupForm,user)" class=" button button-stable  button-block  icon-left ion-ios-email-outline " style="border-radius:0px 0px 0px 0px;" id="signup-button3">SIGN UP WITH YOUR EMAIL</button>
+        </form>
+    </ion-content>
+</ion-view>
