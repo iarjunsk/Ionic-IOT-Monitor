@@ -21,6 +21,5 @@ Read the following article : [Ionic MQTT Client build using Paho – Part 4](htt
 Also read the [complete tutorial series for IOT ](http://www.arjunsk.com/tag/iot) 
 
 ## Video Tutorial: 
-https://www.youtube.com/watch?v=-0qiA6A9VzY
 [![Ionic IOT Monitor](https://img.youtube.com/vi/-0qiA6A9VzY/0.jpg)](https://www.youtube.com/watch?v=-0qiA6A9VzY)
       
