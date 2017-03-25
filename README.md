@@ -16,7 +16,7 @@ The app’s primary objective is to monitor elder peoples health condition from 
       
 Rate it on [Ionic Market Place.](http://market.ionic.io/starters/ionic-mqtt-eclipse-paho)
       
-Read the following article : [Ionic MQTT Client build using Paho – Part 4](http://www.arjunsk.com/iot/ionic-mqtt-client-build-using-paho-part-4/) 
+Read the following article : [Game AI using Phaser.io and Synaptic](http://www.arjunsk.com/game/game-ai-using-phaser-io-synaptic/) 
 
 Also read the [complete tutorial series for IOT ](http://www.arjunsk.com/tag/iot) 
 
