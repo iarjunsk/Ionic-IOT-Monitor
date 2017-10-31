@@ -2,7 +2,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/arjunsk/Ionic-MQTT-Eclipse-Paho)
 ![Image](https://raw.githubusercontent.com/arjunsk/Ionic-IOT-Monitor/master/ionic_mqtt-min.jpg)
 
-
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/kpPTfcZs2AmDLYbvJ42HTnR3/arjunsk/Ionic-IOT-Monitor'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/kpPTfcZs2AmDLYbvJ42HTnR3/arjunsk/Ionic-IOT-Monitor.svg' />
+</a>
 
 #### Use-case scenario:
 The app’s primary objective is to monitor elder peoples health condition from remote, periodicaly. In-fact, we wanted to integrate  more sensors in the device, like Temperature, GPS etc. This could also be integrated with Artificial Pace maker for patients. In a sense, this is a starter project that can be adapted to wider scopes.
